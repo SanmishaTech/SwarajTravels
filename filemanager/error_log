@@ -1,0 +1,32 @@
+[28-Oct-2023 11:49:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jeevaana/jeevandeepcollegegoveli.in/filemanager/UploadHandler.php on line 496
+[28-Oct-2023 11:49:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jeevaana/jeevandeepcollegegoveli.in/filemanager/UploadHandler.php on line 1429
+[28-Oct-2023 12:00:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jeevaana/jeevandeepcollegegoveli.in/filemanager/UploadHandler.php on line 496
+[28-Oct-2023 12:00:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jeevaana/jeevandeepcollegegoveli.in/filemanager/UploadHandler.php on line 1429
+[30-Nov-2023 18:02:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jeevaana/jeevandeepcollegegoveli.in/filemanager/UploadHandler.php on line 496
+[30-Nov-2023 18:02:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jeevaana/jeevandeepcollegegoveli.in/filemanager/UploadHandler.php on line 1429
+[30-Nov-2023 18:07:26 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home1/sanmiuce/demo13.sanmishatech.com/filemanager/UploadHandler.php on line 496
+[30-Nov-2023 18:07:26 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home1/sanmiuce/demo13.sanmishatech.com/filemanager/UploadHandler.php on line 1429
+[02-Feb-2024 18:29:26 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 496
+[16-Feb-2024 10:07:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 496
+[16-Feb-2024 10:07:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 1429
+[16-Feb-2024 10:26:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 496
+[16-Feb-2024 10:26:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 1429
+[16-Feb-2024 10:26:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 496
+[16-Feb-2024 10:26:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 1429
+[16-Feb-2024 10:26:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 496
+[16-Feb-2024 10:26:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 1429
+[16-Feb-2024 10:54:09 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 496
+[16-Feb-2024 10:54:09 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 1429
+[24-Apr-2024 12:30:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home4/jost/public_html/filemanager/UploadHandler.php on line 496
+[24-Apr-2024 16:29:09 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, bool given in /home4/jost/public_html/filemanager/include/php_image_magician.php:3723
+Stack trace:
+#0 /home4/jost/public_html/filemanager/include/php_image_magician.php(3723): imagedestroy(false)
+#1 /home4/jost/public_html/filemanager/dialog.php(1083): imageLib->__destruct()
+#2 {main}
+  thrown in /home4/jost/public_html/filemanager/include/php_image_magician.php on line 3723
+[24-Apr-2024 16:29:12 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, bool given in /home4/jost/public_html/filemanager/include/php_image_magician.php:3723
+Stack trace:
+#0 /home4/jost/public_html/filemanager/include/php_image_magician.php(3723): imagedestroy(false)
+#1 /home4/jost/public_html/filemanager/dialog.php(1083): imageLib->__destruct()
+#2 {main}
+  thrown in /home4/jost/public_html/filemanager/include/php_image_magician.php on line 3723
